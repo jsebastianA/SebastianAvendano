@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.conte{
+    width: 100%;
+    height: 100vh;  
+    background-attachment: fixed;  
+
+}
+.pedree{
+     background-image: url(img.png);
+    background-size: cover;
+    background-attachment: fixed;  
+}
+.pablo{
+    background-image: url(img/pp.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 460px;
+    margin-top: 50px;
+    position: absolute;
+    width: 30%;
+    height: 65vh;
+    border-radius: 50% ;
+    border: solid black 5px;
+}
+.centro{
+    position: absolute;
+    background: white;
+    border: solid black 5px;
+    margin: 465px 460px;
+    font-size: 25px;
+    text-align: center;
+    width: 30%;
+    font-family: 'Times New Roman', Times, serif;
+}
